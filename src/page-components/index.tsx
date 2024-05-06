@@ -1,0 +1,1 @@
+export {default as HomPageComponent} from './home-page-component'
